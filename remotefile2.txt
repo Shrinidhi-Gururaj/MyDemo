@@ -6,3 +6,6 @@ Fixing bug on login page - Feature added by user 1
 Edited by me in local repo 
 
 A Better fix and updated added here on git hub
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Found one new way of adding this - locally by user one	
+
