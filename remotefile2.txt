@@ -1,1 +1,3 @@
-To try fetch 
+To try fetch
+
+Fixing bug on login page 
