@@ -5,5 +5,4 @@ Fixing bug on login page - Feature added by user 1
 
 Edited by me in local repo 
 
-New feature - !!!!
-Urgent fix done	
+A Better fix and updated added here on git hub
